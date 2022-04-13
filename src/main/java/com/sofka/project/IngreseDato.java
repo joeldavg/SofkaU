@@ -2,7 +2,7 @@ package com.sofka.project;
 
 import javax.swing.*;
 
-public class HelloWorld {
+public class IngreseDato {
 
     public static void main(String[] args) {
 
