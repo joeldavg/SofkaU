@@ -25,19 +25,25 @@ public class Car {
 
     public void powerOn() {
         this.start = true;
+        System.out.println("The car is ON");
     }
 
     public void powerOff() {
         this.start = false;
-
+        System.out.println("The car is OFF");
     }
 
     public void status() {
+
         if (start) {
             System.out.println("The car is ON");
         } else {
             System.out.println("The car is OFF");
         }
+    }
+
+    public void information(){
+        System.out.println("Este es un carro camun y corriente");
     }
 
     public String getModel() {
@@ -55,6 +61,10 @@ class CarBMW extends Car {
         System.out.println("Acabas de viajar a 100 millas por hora");
     }
 
+    @Override
+    public void information() {
+        System.out.println("Este es un BMW del año 2011");
+    }
 }
 
 class CarToyota extends Car {
@@ -63,6 +73,10 @@ class CarToyota extends Car {
         this.model = "Toyota";
     }
 
+    @Override
+    public void information() {
+        System.out.println("Este es una Toyota del año 2010");
+    }
 }
 
 class Carrito extends CarToyota {
