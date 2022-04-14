@@ -1,4 +1,4 @@
-package com.sofka.project;
+package com.sofka.campus.project;
 
 import javax.swing.*;
 

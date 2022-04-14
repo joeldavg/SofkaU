@@ -1,4 +1,4 @@
-package com.sofka.flujoDeControl.ejercicios;
+package com.sofka.campus.flujoDeControl.ejercicios;
 
 public class SerieFibonacci {
 

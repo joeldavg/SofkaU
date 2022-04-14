@@ -1,4 +1,4 @@
-package com.sofka.variables;
+package com.sofka.campus.variables;
 
 public class TiposDeDatos {
 

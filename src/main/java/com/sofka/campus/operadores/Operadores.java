@@ -1,4 +1,4 @@
-package com.sofka.operadores;
+package com.sofka.campus.operadores;
 
 public class Operadores {
 

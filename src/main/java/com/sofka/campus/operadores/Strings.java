@@ -1,4 +1,4 @@
-package com.sofka.operadores;
+package com.sofka.campus.operadores;
 
 public class Strings {
     public static void main(String[] args) {

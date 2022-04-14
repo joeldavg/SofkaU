@@ -1,4 +1,4 @@
-package com.sofka.arreglos;
+package com.sofka.campus.arreglos;
 
 public class Matriz {
 

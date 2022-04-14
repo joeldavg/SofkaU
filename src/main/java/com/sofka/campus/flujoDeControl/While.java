@@ -1,4 +1,4 @@
-package com.sofka.flujoDeControl;
+package com.sofka.campus.flujoDeControl;
 
 public class While {
 
