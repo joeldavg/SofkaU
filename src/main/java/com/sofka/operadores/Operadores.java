@@ -1,4 +1,4 @@
-package com.sofka.poo;
+package com.sofka.operadores;
 
 public class Operadores {
 

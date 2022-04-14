@@ -1,4 +1,4 @@
-package com.sofka.poo;
+package com.sofka.operadores;
 
 public class Strings {
     public static void main(String[] args) {
