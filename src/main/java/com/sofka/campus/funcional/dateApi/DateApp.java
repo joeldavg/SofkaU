@@ -110,7 +110,7 @@ public class DateApp {
 //            app.verificar(8);
 //            app.medirTiempo(8);
 //            app.periodoEntreFechas(8);
-            app.convertir(8);
+//            app.convertir(8);
         } catch (Exception e) {
             e.printStackTrace();
         }
